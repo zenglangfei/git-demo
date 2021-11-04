@@ -11,7 +11,7 @@ hello jack! hello git!
 hello jack! hello git!
 hello jack! hello git!
 hello jack! hello git!
-hello jack! hello git! master test
+hello jack! hello git! master test2
 hello jack! hello git!
 hello jack! hello git!
 hello jack! hello git! hot-fix
